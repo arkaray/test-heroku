@@ -6,6 +6,6 @@ app.get('/',(req,res) => {
   res.send('hello world');
 });
 
-app.listen(80, () => {
-  console.log('app listening at 80');
+app.listen(process.env.PORT, () => {
+  console.log('app listening');
 });
