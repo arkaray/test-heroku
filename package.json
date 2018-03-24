@@ -1,0 +1,7 @@
+{
+  "name": "test-arka",
+  "description": "Test heroku",
+  "main": "index.js",
+  "repository": "https://github.com/arkaray/test-heroku.git",
+  "author": "Arka Ray <arkaray97@gmail.com>"
+}
